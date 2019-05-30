@@ -8,9 +8,9 @@
     "main": "src/index.js",
     "dependencies": {
         "underscore": "1.8.3",
-        "web3-core-helpers": "1.0.0-beta.36",
-        "web3-providers-http": "1.0.0-beta.36",
-        "web3-providers-ipc": "1.0.0-beta.36",
-        "web3-providers-ws": "1.0.0-beta.36"
+        "web3-core-helpers": "git+https://github.com/lemengbin/web3-core-helpers.git#1.0.0-beta.36",
+        "web3-providers-http": "git+https://github.com/lemengbin/web3-providers-http.git#1.0.0-beta.36",
+        "web3-providers-ipc": "git+https://github.com/lemengbin/web3-providers-ipc.git#1.0.0-beta.36",
+        "web3-providers-ws": "git+https://github.com/lemengbin/web3-providers-ws.git#1.0.0-beta.36"
     }
 }
